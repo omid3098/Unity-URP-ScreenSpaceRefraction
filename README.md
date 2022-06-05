@@ -9,5 +9,5 @@ https://user-images.githubusercontent.com/6388730/172062749-937321dc-e1e0-414b-8
 
 Usage:
 - Download the repo and import into your project.
-- Create materials using _RefractionGlassSimple_ or _RefractionGlassComplex_
+- Create materials using _RefractionGlassSimple_ or _RefractionGlassComplex_ shaders. (Or use existing example materials)
 
