@@ -7,3 +7,7 @@ A ScreenSpaceRefraction for Unity URP (works in HDRP too)
 
 https://user-images.githubusercontent.com/6388730/172062749-937321dc-e1e0-414b-8aac-a71313aa0e0d.mp4
 
+Usage:
+- Download the repo and import into your project.
+- Create materials using _RefractionGlassSimple_ or _RefractionGlassComplex_
+
