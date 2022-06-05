@@ -11,3 +11,6 @@ Usage:
 - Download the repo and import into your project.
 - Create materials using _RefractionGlassSimple_ or _RefractionGlassComplex_ shaders. (Or use existing example materials)
 
+Used Assets Credits:
+- [Glowing Crystals](https://sketchfab.com/3d-models/glowing-crystals-cb97c1da9c284f77b1fd0842bd0b26ed) by ked182 on SketchFab
+- [Blue Diamond](https://sketchfab.com/3d-models/blue-diamond-free-giveaway-618d614891354c1f86f07845080e13e7) by Kugatsu Tsukai on SketchFab
