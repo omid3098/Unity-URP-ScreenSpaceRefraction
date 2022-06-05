@@ -1,6 +1,9 @@
 # Unity-URP-ScreenSpaceRefraction
 
-**If you are looking for a simpler and faster version, check this one** [Unity-URP-GlassShader](git@github.com:omid3098/Unity-URP-ScreenSpaceRefraction.git)
+A ScreenSpaceRefraction for Unity URP (works in HDRP too)
 
-https://user-images.githubusercontent.com/6388730/172062565-214cf414-71a8-428b-b47e-e1d00c8de351.mp4
+**If you are looking for a simpler and faster version, check this one** [Unity-URP-GlassShader](https://github.com/omid3098/Unity-URP-GlassShader)
+
+
+https://user-images.githubusercontent.com/6388730/172062749-937321dc-e1e0-414b-8aac-a71313aa0e0d.mp4
 
