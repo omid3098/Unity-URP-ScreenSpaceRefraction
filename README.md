@@ -2,6 +2,9 @@
 
 A ScreenSpaceRefraction for Unity URP (works in HDRP too)
 
+<img width="668" alt="image" src="https://user-images.githubusercontent.com/6388730/236700236-714a0b3a-d7dc-4fa0-9370-7aa073edbd14.png">
+
+
 **If you are looking for a simpler and faster version, check this one** [Unity-URP-GlassShader](https://github.com/omid3098/Unity-URP-GlassShader)
 
 
